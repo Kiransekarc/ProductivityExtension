@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.2",
+  "description": "Track your web browsing habits and boost productivity",
+  "permissions": [
+    "storage", 
+    "tabs", 
+    "webNavigation"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "host_permissions": ["<all_urls>"]
+}
