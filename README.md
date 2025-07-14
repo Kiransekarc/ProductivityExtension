@@ -78,6 +78,7 @@ Implementing real-time syncing without data duplication.
 Ensuring the extension complied with Chrome’s latest security and privacy policies (Manifest V3).
 
 Conclusion
+
 The Productivity Tracker Chrome Extension built during Task 4 is a powerful tool that blends browser automation, data analytics, and user-centric design. By integrating it with a full-fledged MERN backend, the project achieved seamless real-time tracking and personalization across devices. This task not only strengthened my skills in Chrome Extension development and MERN stack programming but also gave me valuable insight into solving real-world productivity problems with technology.
 
 Output :-
